@@ -1,0 +1,50 @@
+.body {
+    background: linear-gradient(to right, #CD2B2B, #090909), 
+    linear-gradient(to bottom, #FFFFFF, #03B9BB);
+    color:#FFFFFF;
+}
+
+.hdr {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10vw;
+    margin-left: 12vw;
+}
+
+.hdr_menu {
+    display: flex;
+    gap: 2em;
+    margin-top: 3vh;
+}
+
+.first_btn {
+    background: none;
+    width: 10vw;
+    height: 4vh;
+    margin-top: 3vh;
+    border-radius: 8px;
+    color: linear-gradient(to right, #FFFFFF, #03B9BB);
+}
+
+.base {
+    margin-top: 15vh;
+    margin-left: 8vw;
+}
+
+.bs_first {
+    width: 45vw;
+}
+
+.bs_second {
+    width: 40vw;
+}
+
+.second_btn {
+    background: none;
+    width: 10vw;
+    height: 4vh;
+    margin-top: 5vh;
+    margin-left: 8vw;
+    border-radius: 8px;
+}
